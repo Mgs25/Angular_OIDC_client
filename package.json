@@ -52,7 +52,8 @@
   "private": true,
   "dependencies": {
     "@angular-devkit/build-angular": "^14.2.2",
-    "angular-auth-oidc-client": "^14.1.4"
+    "angular-auth-oidc-client": "^14.1.4",
+    "bootstrap": "^5.2.1"
   },
   "devDependencies": {
     "@angular/animations": "^14.0.2",

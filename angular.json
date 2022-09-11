@@ -891,8 +891,8 @@
             "tsConfig": "projects/sample-code-flow-auth0/tsconfig.app.json",
             "aot": true,
             "assets": ["projects/sample-code-flow-auth0/src/favicon.ico", "projects/sample-code-flow-auth0/src/assets"],
-            "styles": ["projects/sample-code-flow-auth0/src/styles.css"],
-            "scripts": []
+            "styles": ["projects/sample-code-flow-auth0/src/styles.css", "./node_modules/bootstrap/dist/css/bootstrap.min.css"],
+            "scripts": ["./node_modules/bootstrap/dist/js/bootstrap.min.js"]
           },
           "configurations": {
             "production": {
